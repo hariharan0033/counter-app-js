@@ -46,4 +46,5 @@ h2{
     color: white;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
